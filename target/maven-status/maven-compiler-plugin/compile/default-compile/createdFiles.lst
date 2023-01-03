@@ -1,0 +1,6 @@
+com\herokuapp\booker\restful\model\AuthPojo.class
+com\herokuapp\booker\restful\model\BookingPojo.class
+com\herokuapp\booker\restful\utils\PropertyReader.class
+com\herokuapp\booker\restful\userinfo\UserSteps.class
+com\herokuapp\booker\restful\constants\Endpoints.class
+com\herokuapp\booker\restful\utils\TestUtils.class
